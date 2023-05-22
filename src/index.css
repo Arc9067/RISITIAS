@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Ballers_Delight";
+  src: url(./assets//fonts/Ballers_Delight_Regular.ttf);
+}
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@layer {
+}

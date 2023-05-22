@@ -3,7 +3,7 @@ import logo from "../assets/logo.avif";
 
 const Header = () => {
   return (
-    <header className="py-1 bg-black relative w-full -rotate-2 top-0 h-[80px] flex justify-between items-center border-white border-b-4 shadow-2xl">
+    <header className="py-1 relative w-full top-0 h-[80px] flex justify-between items-center border-white border-b-4 shadow-2xl">
       <div className="container flex justify-center items-center font-Baller">
         <img
           src={logo}

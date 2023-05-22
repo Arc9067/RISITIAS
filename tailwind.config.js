@@ -24,6 +24,7 @@ export default {
       },
       fontFamily: {
         Baller: ["Ballers_Delight", "cursive"],
+        iBM: ["IBM Plex Mono", "monospace"],
       },
       lineHeight: {},
     },

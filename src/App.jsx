@@ -3,6 +3,7 @@ import Header from "./Components/Header";
 import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Tokenomics from "./Components/Tokenomics";
+import Gif from "./Components/Gif";
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Hero />
       <About />
       <Tokenomics />
+      <Gif />
     </div>
   );
 };

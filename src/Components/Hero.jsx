@@ -8,7 +8,7 @@ import {
 const Hero = () => {
   return (
     <section className="py-fifty text-white">
-      <div className="container grid md:grid-cols-2 items-center justify-between gap-4">
+      <div className="container grid md:grid-cols-2 items-center justify-between gap-10">
         <div className="flex flex-col gap-3">
           <h1 className="text-5xl bg-white z-10 w-max uppercase -rotate-3 text-black duration-1000 transition">
             king of meme
@@ -19,7 +19,7 @@ const Hero = () => {
             className="mt-4  mix-blend-normal animate-bounce"
           />
         </div>
-        <div className="flex flex-col gap-3">
+        <div className="flex flex-col gap-8">
           <h1 className="title text-7xl md:text-9xl w-max title uppercase">
             $risitias
           </h1>

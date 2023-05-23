@@ -21,10 +21,11 @@ const Hero = () => {
             $risitias
           </h1>
           <p className="text-white/70 text-xl leading-relaxed font-iBM">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa,
-            provident quia debitis saepe quo odio laborum modi quasi quos quam
-            similique blanditiis tenetur obcaecati eaque eum iusto ipsam quas
-            ex!
+            The only place where taxes are so scared, they've gone into hiding!
+            Join us for a crypto adventure filled with memes, laughter, and
+            absolutely 0% tax. It's time to meme your way to financial freedom,
+            one hilarious transaction at a time. Buckle up, my friend, because
+            we're about to take the crypto world by storm!
           </p>
           <div className="flex gap-3 flex-wrap font-iBM font-bold md:justify-start">
             <a href="" className="text-5xl hover:shadow-2xl">

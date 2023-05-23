@@ -11,16 +11,17 @@ const About = () => {
             about
           </h1>
           <p className="font-iBM text-center max-w-xl text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt facere
-            iure voluptatibus, totam sed nisi aliquam dignissimos pariatur eos
-            recusandae? Optio vitae quasi voluptate obcaecati, provident
-            consequatur doloremque quos vero!
+            Get ready for the wildest crypto ride ever with RISITIAS! We've
+            mixed laughter and profits in one glorious project inspired by the
+            meme king himself. Say farewell to boring investments and welcome a
+            world where comedy and crypto collide!
           </p>
           <p className="font-iBM text-center max-w-xl text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt facere
-            iure voluptatibus, totam sed nisi aliquam dignissimos pariatur eos
-            recusandae? Optio vitae quasi voluptate obcaecati, provident
-            consequatur doloremque quos vero!
+            At RISITIAS, we're all about joyous investing. Each transaction
+            isn't just about money; it's a golden opportunity to release a meme
+            that'll leave you in stitches. Our memeologists have handpicked the
+            funniest memes, guaranteeing non-stop laughter throughout your
+            crypto journey. Join us, and let the giggles begin!
           </p>
         </div>
         <div className=""></div>

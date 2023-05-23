@@ -4,6 +4,7 @@ import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Tokenomics from "./Components/Tokenomics";
 import Gif from "./Components/Gif";
+import Footer from "./Components/Footer";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <About />
       <Tokenomics />
       <Gif />
+      <Footer />
     </div>
   );
 };

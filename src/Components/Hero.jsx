@@ -51,10 +51,16 @@ const Hero = () => {
             >
               <FiMail />
             </a>
-            <a href="" className="text-5xl hover:shadow-2xl">
+            <a
+              href="https://etherscan.io/address/0x247b1dfdf834b075fd97e2bb2b0b22d4442dac5b"
+              className="text-5xl hover:shadow-2xl"
+            >
               <TbCurrencyEthereum />
             </a>
-            <a href="" className="text-5xl hover:shadow-2xl">
+            <a
+              href="https://www.dextools.io/app/en/ether/pair-explorer/0x08ae1c7e3b3dca489f31a23eab1a1ea515dc6404"
+              className="text-5xl hover:shadow-2xl"
+            >
               <MdShowChart />
             </a>
           </div>

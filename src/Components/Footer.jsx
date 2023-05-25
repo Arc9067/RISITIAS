@@ -22,14 +22,14 @@ const Footer = () => {
             className="bg-white p-3 rounded-full hover:bg-secondary animate-pulse"
           />
         </a>
-        <a href="">
+        <a href="https://etherscan.io/address/0x247b1dfdf834b075fd97e2bb2b0b22d4442dac5b">
           <img
             src={etherscan}
             alt=""
             className="bg-white p-3 rounded-full hover:bg-secondary animate-pulse"
           />
         </a>
-        <a href="">
+        <a href="https://www.dextools.io/app/ether/pair-explorer/0x08ae1C7E3b3Dca489f31a23eAB1a1ea515dC6404">
           <img
             src={dextools}
             alt=""

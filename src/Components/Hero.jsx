@@ -18,7 +18,7 @@ const Hero = () => {
         </div>
         <div className="flex flex-col gap-8">
           <h1 className="title text-7xl md:text-9xl w-max title uppercase">
-            $risitias
+            $Risitas
           </h1>
           <p className="text-white/70 text-xl leading-relaxed font-iBM">
             The only place where taxes are so scared, they've gone into hiding!

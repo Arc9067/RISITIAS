@@ -6,6 +6,8 @@ import {
   TbCurrencyEthereum,
 } from "react-icons/tb";
 import { MdShowChart } from "react-icons/md";
+import { FiMail } from "react-icons/fi";
+
 const Hero = () => {
   return (
     <section className="py-Hun text-white hero">
@@ -31,11 +33,20 @@ const Hero = () => {
             hearts!!
           </p>
           <div className="flex gap-3 flex-wrap font-iBM font-bold md:justify-start">
-            <a href="" className="text-5xl hover:shadow-2xl">
+            <a
+              href="https://t.me/RisitasEth"
+              className="text-5xl hover:shadow-2xl"
+            >
               <TbBrandTelegram />
             </a>
-            <a href="" className="text-5xl hover:shadow-2xl">
+            <a
+              href="https://twitter.com/RisitasCoinErc"
+              className="text-5xl hover:shadow-2xl"
+            >
               <TbBrandTwitter />
+            </a>
+            <a href="" className="text-5xl hover:shadow-2xl">
+              <FiMail />
             </a>
             <a href="" className="text-5xl hover:shadow-2xl">
               <TbCurrencyEthereum />

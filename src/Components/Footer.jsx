@@ -8,14 +8,14 @@ const Footer = () => {
   return (
     <footer className="py-[30px] bg-black text-white">
       <div className="container flex justify-center items-center gap-5 flex-wrap">
-        <a href="">
+        <a href="https://t.me/RisitasEth">
           <img
             src={Telegram}
             alt=""
             className="bg-white p-3 rounded-full hover:bg-secondary animate-bounce "
           />
         </a>
-        <a href="">
+        <a href="https://twitter.com/RisitasCoinErc">
           <img
             src={Twitter}
             alt=""

@@ -10,7 +10,7 @@ const Header = () => {
           className="w-[5rem] rounded-full h-[5rem] object-cover absolute -bottom-10 border-4 border-white animate-bounce"
           alt=""
         />
-        <h1 className="text-6xl text-center text-white">$RISITIAS</h1>
+        <h1 className="text-6xl text-center text-white uppercase">$Risitas</h1>
       </div>
     </header>
   );

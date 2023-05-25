@@ -17,7 +17,7 @@ const Tokenomics = () => {
           <div className="flex flex-col gap-4 mt-10 font-mono md:w-max capitalize text-xl bg-yellow-500 border-2 p-4 rounded-2xl -rotate-3 font-medium">
             <p>token name: EL RISITAS</p>
             <p>Token Ticker: $RISITAS</p>
-            <p>Total Supply: 420690000</p>
+            <p>Total Supply: 100000000</p>
           </div>
           <ul className="flex flex-col gap-4 list-decimal list-inside mt-10 font-mono md:w-max capitalize text-xl bg-yellow-500 border-2 p-4 rounded-2xl border-black -rotate-3 font-medium">
             <li>tax: 0/0%</li>

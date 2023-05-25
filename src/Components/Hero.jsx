@@ -21,11 +21,14 @@ const Hero = () => {
             $Risitas
           </h1>
           <p className="text-white/70 text-xl leading-relaxed font-iBM">
-            The only place where taxes are so scared, they've gone into hiding!
-            Join us for a crypto adventure filled with memes, laughter, and
-            absolutely 0% tax. It's time to meme your way to financial freedom,
-            one hilarious transaction at a time. Buckle up, my friend, because
-            we're about to take the crypto world by storm!
+            In the loving memory of Lord of memes EL RISITAS , we are launching
+            a 0 tax community meme coin with an highly experienced team working
+            behind the scene .
+            <br />
+            <br />
+            <br />
+            EL RISITAS will always be remembered and will always live in our
+            hearts!!
           </p>
           <div className="flex gap-3 flex-wrap font-iBM font-bold md:justify-start">
             <a href="" className="text-5xl hover:shadow-2xl">

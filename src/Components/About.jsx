@@ -13,7 +13,7 @@ const About = () => {
           <p className="font-iBM text-center max-w-xl text-xl">
             Get ready for the wildest crypto ride ever with RISITIAS! We've
             mixed laughter and profits in one glorious project inspired by the
-            meme king himself. Say farewell to boring investments and welcome a
+            meme king himself. Say farewell to boring tokens and welcome a
             world where comedy and crypto collide!
           </p>
           <p className="font-iBM text-center max-w-xl text-xl">

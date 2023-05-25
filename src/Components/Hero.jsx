@@ -45,7 +45,10 @@ const Hero = () => {
             >
               <TbBrandTwitter />
             </a>
-            <a href="" className="text-5xl hover:shadow-2xl">
+            <a
+              href="mailto:Marketing@teamrisitas.com"
+              className="text-5xl hover:shadow-2xl"
+            >
               <FiMail />
             </a>
             <a href="" className="text-5xl hover:shadow-2xl">
